@@ -163,4 +163,4 @@ if R:
         st.info("💡 Sıfır seviyesinin altından yukarı dönüşler, tarihsel olarak büyük boğa piyasası diplerini işaret eder.")
 
 else:
-    st.error("
+    st.error("⚠️ Veri çekme limiti veya bağlantı sorunu. Lütfen Sidebar'dan Yenile yapın.")
